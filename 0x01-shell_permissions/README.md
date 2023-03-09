@@ -1,1 +1,1 @@
-0. My name is Betty
+Each Commit describes each script what it does
